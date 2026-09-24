@@ -1,4 +1,8 @@
 ---
+genres:
+  - racing
+  - party
+  - arcade
 directors_cut: https://platane.github.io/unicorn-hunt/
 video: https://youtu.be/ytcnSxXLikM
 # See github.com/js13kGames/hello-world for supported frontmatter
